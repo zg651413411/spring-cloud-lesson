@@ -1,0 +1,5 @@
+#应用的名称segmentfault-prod的配置
+name = segmentfault-prod
+
+sf.user.name = ercfdfgxcv
+sf.user.id = 7213895
